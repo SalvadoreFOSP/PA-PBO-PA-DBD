@@ -47,6 +47,37 @@ Project ini bertujuan untuk meningkatkan layanan publik di tingkat lokal dan men
 
 ![HierarkiPBO (1)](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/d547a003-8d52-488c-bb42-d4d045b1d618)
 
-**Source Code**
 
 **Output**
+
+1. Menu Awal
+
+![image](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/0fbe1e7b-32a1-420a-9068-52f7c5fe78df)
+
+2. Menu Registrasi
+
+![image](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/bfb935f9-6869-4a19-9d4f-385d49d2b489)
+
+3. Menu Login
+
+![image](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/a3d68e15-7919-4b46-a6d8-5b2a5fed68ad)
+
+4. Menu Admin
+
+![image](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/8fbbbaea-9503-4d82-a1b5-7c45238819a8)
+
+5. Menu User
+
+![image](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/887c7a6a-2ea2-408a-963d-345d72713e18)
+
+6. Menu Buat KTP
+
+![image](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/328241f2-e327-4475-b2c1-736f4a5d2f04)
+
+7. Menu Buat Akta
+
+![image](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/feedfaac-22c4-48e9-a5d7-e98465005603)
+
+8. Menu Lihat Surat
+
+![image](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/f7970c1e-0396-49ea-b94f-815fe39ff7d8)
