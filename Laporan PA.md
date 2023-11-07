@@ -41,7 +41,8 @@ Project ini bertujuan untuk meningkatkan layanan publik di tingkat lokal dan men
 
 **ERD**
 
-![LogicalPA](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/42c2f684-a614-405b-ba4c-f6b78898cedf)
+![image](https://github.com/SalvadoreFOSP/PA-PBO-PA-DBD/assets/126777568/db685fd9-7e3c-4d5c-b742-783161ee5c4e)
+
 
 **Hierarki**
 
